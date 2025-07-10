@@ -1,3 +1,4 @@
+
 <table width="100%" background="categories/img/fondo.png" style="background-size: cover; background-position: center;">
   <tr><td>
 <p align="center">
@@ -11,8 +12,6 @@
 </svg>
 </p>
 
-  </td></tr>
-<tr><td>
 <p align="center">
   <i>[ Os distribuidor | AI x Nube | skid ]</i>
   <br>
