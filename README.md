@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">¡Hola, soy Kidmen Aatoo 👋!</h1>
 
-<!--
-**slyxicpy/slyxicpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
+</p>
 
-Here are some ideas to get you started:
+<h2>🔧 Tecnologías</h2>
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>Linux / Bash</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📊 Estadísticas</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kidmenaatoo&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kidmenaatoo">
+    <img src="https://img.shields.io/github/followers/kidmenaatoo?label=Follow&style=social" />
+  </a>
+</p>
