@@ -1,4 +1,3 @@
-
 <table width="100%" background="categories/img/fondo.png" style="background-size: cover; background-position: center;">
   <tr><td>
 <p align="center">
