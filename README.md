@@ -16,7 +16,7 @@
     <text x="0" y="50%" text-anchor="start" dominant-baseline="middle"
           font-family="Cinzel, serif" font-weight="900" font-size="52" fill="none" stroke="#FF4136"
           stroke-width="1.5" stroke-dasharray="500" stroke-dashoffset="500" filter="url(#neon-glow)">
-        𝔻𝕋𝔼𝕊𝕁𝕋𝕂
+        ByxCVcs
       <animate attributeName="stroke-dashoffset" from="500" to="0" dur="3s" fill="freeze" />
     </text>
   </svg>
@@ -38,6 +38,10 @@
       <animate attributeName="cx" from="0" to="840" dur="5s" repeatCount="indefinite" />
     </circle>
   </svg>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="div" width="100%" />
 </p>
 
 <pre style="color: #D70000; font-family: 'Source Code Pro', monospace; font-size: 10px; line-height: 1; margin: 20px 0;">
