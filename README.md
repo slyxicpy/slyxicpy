@@ -14,7 +14,8 @@
 <p align="center">
   <svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
     <text x="0" y="50%" text-anchor="start" dominant-baseline="middle"
-          font-family="Cinzel, serif" font-weight="900" font-size="52" fill="none" stroke="#FF4136"
+          font-family="Cinzel, serif"
+ font-weight="900" font-size="52" fill="none" stroke="#FF4136"
           stroke-width="1.5" stroke-dasharray="500" stroke-dashoffset="500" filter="url(#neon-glow)">
        𝕭𝖞𝖝𝖈𝖕𝖁𝖈
       <animate attributeName="stroke-dashoffset" from="500" to="0" dur="3s" fill="freeze" />
