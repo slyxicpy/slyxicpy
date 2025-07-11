@@ -26,18 +26,12 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&size=24&pause=1000&color=DC143C&background=0D111700¢er=true&vCenter=true&width=1000&lines=https://89.245.40.110:9001/;C7BB215BF9E6077D4BAC3FF5E79E72F8E06A145E;00:2F:5A:EB:1D:15;EXEF+Leaks+|+WFA+scan;432F61F51321E204B85BD57CAAC7BB1409FF04E5;https://75.223.72.168:9001/;http://torrentsru5dbmqszbdinnz7cjiubxsjngq52qij6ih3fmp3gn7hwqqd.onion/forum/index.php+-+новое+зеркало+rutracker.org;C4B0DB690E33633F6A05CF6858D183F7F6F93FA9;https://194.36.144.87:9001/;C43F0E1F1E7504400DBE6BB7D40EBB4F153CB112;https://94.252.30.44:9001/;Unify;socket;https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/ru+-+DW;https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/europe+-+the+guardian;http://immortal3u4qce76cxfa4uaqdb7riyrokqarrypdv7cyukedw3wxwiad.onion/+-+Immortal;https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion/+-+радио+свобода;https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/+-+BBC+news" />
   </p>
 
+<td align="right" valign="middle">
+  <img src="https://raw.githubusercontent.com/slyxicpy/slyxicpy/main/static/svg/pentagram.png" width="120" height="120" alt="Pentagram rotating"/>
+</td>
 
-      </td>
-      <td align="right" valign="middle">
-        <svg width="120" height="120" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="50" cy="50" r="48" stroke="rgba(255,65,54,0.4)" stroke-width="1" fill="none"/>
-          <polygon points="50,10 65.45,69.10 20.45,34.55 79.55,34.55 34.55,69.10" stroke="#FF4136" stroke-width="2.5" fill="rgba(255,65,54,0.1)" filter="url(#neon-glow)">
-            <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="30s" repeatCount="indefinite" />
-          </polygon>
-          <circle cx="50" cy="50" r="4" fill="#F0F0F0"><animate attributeName="r" values="4;10;4" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite" /></circle>
-        </svg>
-      </td>
-    </tr>
+
+
   </table>
   
   <p>
