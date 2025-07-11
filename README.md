@@ -150,7 +150,7 @@
     <summary style="cursor: pointer; list-style: none;">
       <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-block; filter: url(#neon-glow);">
         <svg width="20" height="20" viewBox="0 0 20 20" style="vertical-align: middle; margin-right: 10px;"><path d="M10 2 L18 10 L10 18 L2 10 Z" fill="#FF4136"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/></path></svg>
-        Pr-Creaciones
+        Pre-Creaciones
       </h2>
     </summary>
     <br/>
@@ -175,11 +175,6 @@
     </table>
   </details>
   <br/><br/>
-
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=28&duration=5000&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&lines=⛧+Coded+by+ByxcyxVc+⛧;Black+OSINT+%7C+RedTeam+%7C+AI;SnkLv+%7C+Muxed+Hyv22o+%7C+Syxbun" />
-  </p>
-
 
 
   <details open>
