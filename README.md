@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&size=22&duration=5000&pause=1000&color=DC143C&center=true&vCenter=true&width=1000&lines=EXEF+Leaks+%7C+WFA+scan;socket+listening...;89.245.40.110:9001;Unify+Access;Immortal+.onion;DW+News+Hidden+Mirror;Rutracker+новое+зеркало" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&size=22&duration=5000&pause=1000&color=DC143C&center=true&vCenter=true&width=1000&lines=EXEF+Leaks+%7C+WFA+scan;socket+listening...;89.245.40.110:9001;Unify+Access;Immortal+.onion;DW+News+Hidden+Mirror;Rutracker+новое+зеркало"
 </p>
 
 <p align="center">
