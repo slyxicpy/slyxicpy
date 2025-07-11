@@ -22,28 +22,26 @@
           <b>"Guides for ussers"</b>
         </p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&size=24&pause=1000&color=DC143C&background=0D111700¢er=true&vCenter=true&width=1000&lines=https://89.245.40.110:9001/;C7BB215BF9E6077D4BAC3FF5E79E72F8E06A145E;00:2F:5A:EB:1D:15;EXEF+Leaks+|+WFA+scan;432F61F51321E204B85BD57CAAC7BB1409FF04E5;https://75.223.72.168:9001/;http://torrentsru5dbmqszbdinnz7cjiubxsjngq52qij6ih3fmp3gn7hwqqd.onion/forum/index.php+-+новое+зеркало+rutracker.org;C4B0DB690E33633F6A05CF6858D183F7F6F93FA9;https://194.36.144.87:9001/;C43F0E1F1E7504400DBE6BB7D40EBB4F153CB112;https://94.252.30.44:9001/;Unify;socket;https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/ru+-+DW;https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/europe+-+the+guardian;http://immortal3u4qce76cxfa4uaqdb7riyrokqarrypdv7cyukedw3wxwiad.onion/+-+Immortal;https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion/+-+радио+свобода;https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/+-+BBC+news" />
-  </p>
+        <p align="center">
+          <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&size=24&pause=1000&color=DC143C&background=0D111700¢er=true&vCenter=true&width=1000&lines=https://89.245.40.110:9001/;C7BB215BF9E6077D4BAC3FF5E79E72F8E06A145E;00:2F:5A:EB:1D:15;EXEF+Leaks+|+WFA+scan;432F61F51321E204B85BD57CAAC7BB1409FF04E5;https://75.223.72.168:9001/;http://torrentsru5dbmqszbdinnz7cjiubxsjngq52qij6ih3fmp3gn7hwqqd.onion/forum/index.php+-+новое+зеркало+rutracker.org;C4B0DB690E33633F6A05CF6858D183F7F6F93FA9;https://194.36.144.87:9001/;C43F0E1F1E7504400DBE6BB7D40EBB4F153CB112;https://94.252.30.44:9001/;Unify;socket;https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/ru+-+DW;https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/europe+-+the+guardian;http://immortal3u4qce76cxfa4uaqdb7riyrokqarrypdv7cyukedw3wxwiad.onion/+-+Immortal;https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion/+-+радио+свобода;https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/+-+BBC+news" />
+        </p>
 
-<td align="right" valign="middle">
-  <img src="https://raw.githubusercontent.com/slyxicpy/slyxicpy/main/static/svg/pentagram.png" width="120" height="120" alt="Pentagram rotating"/>
-</td>
+        <p>
+          <svg width="100%" height="10" viewBox="0 0 840 10" xmlns="http://www.w3.org/2000/svg">
+            <line x1="0" y1="5" x2="840" y2="5" stroke="#FF4136" stroke-width="1.5" opacity="0.5"/>
+            <circle cx="0" cy="5" r="3" fill="#F0F0F0"><animate attributeName="cx" from="0" to="840" dur="5s" repeatCount="indefinite" /></circle>
+          </svg>
+        </p>
+        
+        <p align="center">
+          <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="div" width="100%" />
+        </p>
 
-
-
-  </table>
-  
-  <p>
-    <svg width="100%" height="10" viewBox="0 0 840 10" xmlns="http://www.w3.org/2000/svg">
-      <line x1="0" y1="5" x2="840" y2="5" stroke="#FF4136" stroke-width="1.5" opacity="0.5"/>
-      <circle cx="0" cy="5" r="3" fill="#F0F0F0"><animate attributeName="cx" from="0" to="840" dur="5s" repeatCount="indefinite" /></circle>
-    </svg>
-  </p>
-  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="div" width="100%" />
-  </p>
+        <p style="font-family: 'VT323', monospace; font-size: 20px; color: #8B949E; margin: 0;">
+          <i>SupXt</i>
+          <br/>
+          <a href="https://github.com/slyxicpy" target="_blank">GitHub Profile</a>
+        </p>
 
   <details open>
     <summary style="cursor: pointer; list-style: none;">
@@ -54,7 +52,7 @@
     </summary>
     <br/>
     <p style="font-family: 'Roboto Mono', monospace; font-size: 16px; color: #BDBDBD; text-align: left; line-height: 1.6;">
-      Soy un friki apasionado por la tecnologia y sus alcances personales o masivos, pero en este caso mi fijador se encuentra en la seccion de mecatronica de la IA, y en particular en el campo de la inteligencia artificial de redes neuronales. Usare este espacio para mostrar proyectos, colaborar y aprender de otros ussers....
+      friki apasionado por la tecnologia y sus alcances personales o masivos, pero en este caso mi fijador se encuentra en la seccion de mecatronica de la IA, y en particular en el campo de la inteligencia artificial de redes neuronales. Usare este espacio para mostrar proyectos, colaborar y aprender de otros ussers....
     </p>
   </details>
   <br/><br/>
@@ -135,7 +133,6 @@
   </details>
   <br/><br/>
   
-
 <pre style="color: #D70000; font-family: 'Source Code Pro', monospace; font-size: 10px; line-height: 1; margin: 20px 0;">
           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+xxXXXXXXXXXXxx+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
           ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+xXXXXXXXXXXXXXXXXXXXXx+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -173,18 +170,38 @@
           $$$$$$$$$$X$XX$$X$$X$XX$$$$$X$XXXXXx;+XXXXXXXXXX++XXXXXXXX$XXXXXXXXXX$XXXXXX$XXX$XXXXXX;
           XX$$$$$$$$$X$$X$XX$$X$$$$$$$$X$X$XXX++XXXXXXXXXX++XXXXXXXX$XXXXXXXXXX$XXXXXX$XXX$XXXXXX;
           $$$$$$$$$$$$X$$$X$$X$$XXXX$X$$$$$$$XXX+XXXXXXXXXXxxXXXXXXXXXXXXXXXX$$XXXXXXXXXX$$XXXXX$X
-  </pre>  
+  </pre>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%5B%7C+Especialiced+in+your's+bubbys+my+love's+%5D;Proyect's+Leaks+v3;Bots+Leaks+Scraper'Os+VUyinx+V0.5;3D+Subgabme+Beta;Summon+ITC+WAF+UniCode;ZExplo;Turned+Rat;Especial+Game's" />
+</p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=24&duration=4000&pause=1000&color=FF4136¢er=true&vCenter=true&multiline=true&lines=TRANSMISIÓN+COMPLETA...;...EL+TERMINAL+ENTRA+EN+ESTASIS...;...ESPERANDO+NUEVO+RITUAL."/>
+      <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-block; filter: url(#neon-glow);">
+        <svg width="20" height="20" viewBox="0 0 20 20" style="vertical-align: middle; margin-right: 10px;"><path d="M10 2 L18 10 L10 18 L2 10 Z" fill="#FF4136"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/></path></svg>
+        Contact Me 
+      </h2>
+
+  <p style="margin: 20px 0;">
+    <a href="[TU ENLACE DE LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D70000" alt="LinkedIn"></a>
+    <a href="[TU ENLACE DE PORTAFOLIO/WEB]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=D70000" alt="Portfolio"></a>
+    <a href="mailto:[TU CORREO ELECTRÓNICO]"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D70000" alt="Email"></a>
+    <a href="[TU ENLACE DE TWITTER/X]" target="_blank"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=D70000" alt="Twitter"></a>
   </p>
-  
+
+  <p style="margin: 20px 0;">
+    <img src="https://komarev.com/ghpvc/?username=slyxicpy&label=Visitantes&color=D70000&style=for-the-badge" alt="Visitor Count"/>
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=28&duration=5000&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&lines=⛧+Coded+by+ByxcyxVc+⛧;Black+OSINT+%7C+RedTeam+%7C+AI;SnkLv+%7C+Muxed+Hyv22o+%7C+Syxbun" />
+  </p>
+
+
+
   <details open>
     <summary style="cursor: pointer; list-style: none;">
       <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-block; filter: url(#neon-glow);">
         <svg width="20" height="20" viewBox="0 0 20 20" style="vertical-align: middle; margin-right: 10px;"><path d="M10 2 L18 10 L10 18 L2 10 Z" fill="#FF4136"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/></path></svg>
-        Registros de Actividad en Tiempo Real
+        Actividad
       </h2>
     </summary>
     <br/>
@@ -199,11 +216,14 @@
       <img align="left" src="https://github-profile-trophy.vercel.app/?username=slyxicpy&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GitHub"/>
     </p>
     <p>
-      <i style="color: #BDBDBD; font-family: 'Roboto Mono', monospace;">Análisis de Contribuciones ☭</i><br/>
+      <i style="color: #BDBDBD; font-family: 'Roboto Mono', monospace;">Contribuciones ☭</i><br/>
       <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=slyxicpy&bg_color=0D1117&color=f0f0f0&line=ff4136&point=f0f0f0&area=true&hide_border=true&area_color=ff4136" alt="Gráfico de Actividad"/>
     </p>
   </details>
 
+        <p align="center">
+          <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="div" width="100%" />
+        </p>
 
 </div>
 </td>
