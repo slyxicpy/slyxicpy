@@ -23,7 +23,8 @@
   </svg>
 </p>
 
-<p align="center" style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 20px;">
+<
+p align="center" style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 20px;">
   <i>[ Os distribuidor | AI x Cloud | skid ]</i><br>
   <strong>"Proyect's Leaks v9"</strong>
 </p>
