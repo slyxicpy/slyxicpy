@@ -114,51 +114,144 @@
   </details>
   <br/><br/>
 
-  <details>
-    <summary style="cursor: pointer; list-style: none;">
-      <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-block; filter: url(#neon-glow);">
-        <svg width="20" height="20" viewBox="0 0 20 20" style="vertical-align: middle; margin-right: 10px;"><path d="M10 2 L18 10 L10 18 L2 10 Z" fill="#FF4136"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/></path></svg>
-        Conocimiento
-      </h2>
-    </summary>
-    <br/>
-    <style> .hex-node:hover { filter: drop-shadow(0 0 8px #FFFFFF); cursor: pointer; } .hex-node:hover .hex-bg { fill: #FF4136; } .hex-node:hover .hex-icon { transform: scale(1.1) translateY(-3px); } </style>
-    <table width="100%" border="0" cellspacing="15">
-      <tr>
-        <td valign="top" width="50%"><h3 style="font-family: 'Roboto Mono', monospace; color: #FF4136;">Lenguajes</h3><p>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" x="15" y="19" width="30" height="30"/></svg>
-        </p></td>
-        <td valign="top" width="50%"><h3 style="font-family: 'Roboto Mono', monospace; color: #FF4136;">Frameworks && Runtimes</h3><p>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" x="15" y="19" width="30" height="30"/></svg>
-        </p></td>
-      </tr>
-      <tr>
-        <td valign="top" width="50%"><h3 style="font-family: 'Roboto Mono', monospace; color: #FF4136;">Datos && IA</h3><p>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" x="15" y="19" width="30" height="30"/></svg>
-        </p></td>
-        <td valign="top" width="50%"><h3 style="font-family: 'Roboto Mono', monospace; color: #FF4136;">DevOps & Cloud</h3><p>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" x="15" y="19" width="30" height="30"/></svg>
-          <svg class="hex-node" width="60" height="60"><path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/><image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" x="15" y="19" width="30" height="30"/></svg>
-        </p></td>
-      </tr>
-    </table>
-  </details>
-  <br/><br/>
+<details>
+  <summary style="cursor: pointer; list-style: none;">
+    <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-flex; align-items: center; gap: 10px; filter: drop-shadow(0 0 5px #FF4136);">
+      <svg width="20" height="20" viewBox="0 0 20 20">
+        <path d="M10 2 L18 10 L10 18 L2 10 Z" fill="#FF4136">
+          <animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/>
+        </path>
+      </svg>
+      Conocimiento
+    </h2>
+  </summary>
+
+  <style>
+    .hex-node:hover {
+      filter: drop-shadow(0 0 8px #FFF);
+      cursor: pointer;
+    }
+    .hex-node:hover .hex-bg {
+      fill: #FF4136;
+    }
+    .hex-node:hover .hex-icon {
+      transform: scale(1.1) translateY(-3px);
+      transition: transform 0.2s ease;
+    }
+  </style>
+
+  <br />
+
+  <table width="100%" border="0" cellspacing="15">
+    <tr>
+      <td valign="top" width="50%">
+        <h3 style="font-family: 'Roboto Mono', monospace; color: #FF4136;">Lenguajes</h3>
+        <p>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+        </p>
+      </td>
+
+      <td valign="top" width="50%">
+        <h3 style="font-family: 'Roboto Mono', monospace; color: #FF4136;">Frameworks && Runtimes</h3>
+        <p>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+        </p>
+      </td>
+    </tr>
+
+    <tr>
+      <td valign="top" width="50%">
+        <h3 style="font-family: 'Roboto Mono', monospace; color: #FF4136;">Datos && IA</h3>
+        <p>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+        </p>
+      </td>
+
+      <td valign="top" width="50%">
+        <h3 style="font-family: 'Roboto Mono', monospace; color: #FF4136;">DevOps & Cloud</h3>
+        <p>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+          <svg class="hex-node" width="60" height="60">
+            <path class="hex-bg" d="M30 0 L60 17 L60 51 L30 68 L0 51 L0 17 Z" fill="rgba(255,65,54,0.1)"/>
+            <image class="hex-icon" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" x="15" y="19" width="30" height="30"/>
+          </svg>
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
 
   <details open>
     <summary style="cursor: pointer; list-style: none;">
