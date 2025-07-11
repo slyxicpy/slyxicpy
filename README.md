@@ -109,7 +109,7 @@
     </summary>
     <br/>
     <p style="font-family: 'Roboto Mono', monospace; font-size: 16px; color: #BDBDBD; text-align: left; line-height: 1.6;">
-      friki apasionado por la tecnologia y sus alcances personales o masivos, pero en este caso mi fijador se encuentra en la seccion de mecatronica de la IA, y en particular en el campo de la inteligencia artificial de redes neuronales. Usare este espacio para mostrar proyectos, colaborar y aprender de otros ussers....
+    ZenoBot
     </p>
   </details>
   <br/><br/>
