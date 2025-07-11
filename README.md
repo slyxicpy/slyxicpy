@@ -16,15 +16,15 @@
     <text x="0" y="50%" text-anchor="start" dominant-baseline="middle"
           font-family="Cinzel, serif" font-weight="900" font-size="52" fill="none" stroke="#FF4136"
           stroke-width="1.5" stroke-dasharray="500" stroke-dashoffset="500" filter="url(#neon-glow)">
-        ByxCVcs
+       𝕭𝖞𝖝𝖈𝖕𝖁𝖈
       <animate attributeName="stroke-dashoffset" from="500" to="0" dur="3s" fill="freeze" />
     </text>
   </svg>
 </p>
 
 <p align="center" style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 20px;">
-  <i>[ Friki | Especialiced in your's bubbys my love's ]</i><br>
-  <strong>"Proyect's Leaks v3"</strong>
+  <i>[ Os distribuidor | AI x Cloud | skid ]</i><br>
+  <strong>"Proyect's Leaks v9"</strong>
 </p>
 
 <p align="center">
@@ -38,6 +38,10 @@
       <animate attributeName="cx" from="0" to="840" dur="5s" repeatCount="indefinite" />
     </circle>
   </svg>
+</p>
+
+<p align="center">
+          <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&size=24&pause=1000&color=DC143C&background=0D111700¢er=true&vCenter=true&width=1000&lines=https://89.245.40.110:9001/;C7BB215BF9E6077D4BAC3FF5E79E72F8E06A145E;00:2F:5A:EB:1D:15;EXEF+Leaks+|+WFA+scan;432F61F51321E204B85BD57CAAC7BB1409FF04E5;https://75.223.72.168:9001/;http://torrentsru5dbmqszbdinnz7cjiubxsjngq52qij6ih3fmp3gn7hwqqd.onion/forum/index.php+-+новое+зеркало+rutracker.org;C4B0DB690E33633F6A05CF6858D183F7F6F93FA9;https://194.36.144.87:9001/;C43F0E1F1E7504400DBE6BB7D40EBB4F153CB112;https://94.252.30.44:9001/;Unify;socket;https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/ru+-+DW;https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/europe+-+the+guardian;http://immortal3u4qce76cxfa4uaqdb7riyrokqarrypdv7cyukedw3wxwiad.onion/+-+Immortal;https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion/+-+радио+свобода;https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/+-+BBC+news" />
 </p>
 
 <p align="center">
