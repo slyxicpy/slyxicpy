@@ -1,7 +1,7 @@
 <!--
   ======================================================================================
-  =   VERSIÓN FINAL Y GARANTIZADA - Causa raíz del fallo (tabla con fondo) eliminada.  =
-  =             Estructura simplificada para ser 100% compatible con GitHub.           =
+  =   VERSIÓN 2.0 - EL RITUAL HA EVOLUCIONADO. MÁS ANIMACIONES, MÁS PODER, MISMA ALMA.  =
+  =     Construido sobre cimientos sólidos para ser 100% compatible con GitHub.        =
   ======================================================================================
 -->
 <div align="center">
@@ -54,14 +54,15 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&size=24&pause=1000&color=DC143C&background=0D111700¢er=true&vCenter=true&width=1000&lines=https://89.245.40.110:9001/;C7BB215BF9E6077D4BAC3FF5E79E72F8E06A145E;00:2F:5A:EB:1D:15;EXEF+Leaks+|+WFA+scan;432F61F51321E204B85BD57CAAC7BB1409FF04E5;https://75.223.72.168:9001/;http://torrentsru5dbmqszbdinnz7cjiubxsjngq52qij6ih3fmp3gn7hwqqd.onion/forum/index.php+-+новое+зеркало+rutracker.org;C4B0DB690E33633F6A05CF6858D183F7F6F93FA9;https://194.36.144.87:9001/;C43F0E1F1E7504400DBE6BB7D40EBB4F153CB112;https://94.252.30.44:9001/;" />
   </p>
 
-  <!-- ============================== SEPARADOR VISUAL TEMÁTICO ============================== -->
+  <!-- ============================== NUEVO DIVISOR ANIMADO ============================== -->
   <p align="center">
-    <svg width="80" height="40" viewBox="0 0 100 50" xmlns="http://www.w3.org/2000/svg">
-      <path d="M 10 25 Q 50 0 90 25" stroke="#D70000" stroke-width="2" fill="none"/>
-      <path d="M 10 25 Q 50 50 90 25" stroke="#D70000" stroke-width="2" fill="none"/>
-      <circle cx="50" cy="25" r="5" fill="#D70000">
-        <animate attributeName="r" values="4;8;4" dur="4s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite" />
+    <svg width="60%" height="20" viewBox="0 0 300 20" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 10 L300 10" stroke="#D70000" stroke-width="1">
+        <animate attributeName="stroke-width" values="1;3;1" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="150" cy="10" r="4" fill="#D70000">
+         <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
       </circle>
     </svg>
   </p>
@@ -157,67 +158,84 @@
 
   <!-- ============================== SECCIÓN "ARTÍFICE" ============================== -->
   <details open>
-    <summary><h2 align="center">༺ Artífice ♰ ༻</h2></summary>
+    <summary>
+      <h2 align="center">
+        <!-- MARCADOR ANIMADO -->
+        <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+          <circle cx="10" cy="10" r="8" stroke="#D70000" stroke-width="1.5" fill="none">
+             <animate attributeName="stroke-dasharray" values="0 50; 50 0" dur="4s" repeatCount="indefinite"/>
+          </circle>
+          <circle cx="10" cy="10" r="3" fill="#D70000">
+             <animate attributeName="r" values="2;4;2" dur="2s" repeatCount="indefinite"/>
+          </circle>
+        </svg>
+        ༺ Artífice ♰ ༻
+      </h2>
+    </summary>
     <br>
     <samp>
       <p align="center">Considero cada proyecto un testamento. Mi filosofía no es solo resolver problemas, sino hacerlo con una elegancia que trascienda la mera funcionalidad. Construyo sistemas no como máquinas, sino como entidades vivas: resilientes, auto-sostenibles y capaces de evolucionar ante el caos incesante del universo digital. La belleza reside en la robustez invisible, en la arquitectura que perdura mucho después de que la última línea de código ha sido escrita.</p>
       <br>
-      <p>
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNENzAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyIiB2YWx1ZXM9IjE7MzsxIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz48L2NpcmNsZT48L3N2Zz4=" align="left" style="margin-right: 8px;"/>
-        <b>Forja Actual:</b> Erigiendo la espina dorsal de [Nombre del Proyecto/Empresa], un sistema distribuido diseñado para la inmortalidad operativa.
-      </p>
-      <p>
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZHRoPSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNENzAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyIiB2YWx1ZXM9IjE7MzsxIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz48L2NpcmNsZT48L3N2Zz4=" align="left" style="margin-right: 8px;"/>
-        <b>Pergaminos en Estudio:</b> Profundizando en los misterios de [Tecnología Avanzada, ej: eBPF para observabilidad a nivel de kernel, Inferencia de IA en el Edge].
-      </p>
-      <p>
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZHRoPSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNENzAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyIiB2YWx1ZXM9IjE7MzsxIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz48L2NpcmNsZT48L3N2Zz4=" align="left" style="margin-right: 8px;"/>
-        <b>Convócame para un cónclave sobre:</b> [Temas de dominio, ej: Arquitecturas Multi-Región Activo-Activo, Estrategias de Caching de Grafos, Futuro de la Computación Serverless].
-      </p>
+      <p>⛧ <b>Forja Actual:</b> Erigiendo la espina dorsal de [Nombre del Proyecto/Empresa], un sistema distribuido diseñado para la inmortalidad operativa.</p>
+      <p>⛧ <b>Pergaminos en Estudio:</b> Profundizando en los misterios de [Tecnología Avanzada, ej: eBPF para observabilidad a nivel de kernel, Inferencia de IA en el Edge].</p>
+      <p>⛧ <b>Convócame para un cónclave sobre:</b> [Temas de dominio, ej: Arquitecturas Multi-Región Activo-Activo, Estrategias de Caching de Grafos, Futuro de la Computación Serverless].</p>
     </samp>
   </details>
   <br>
 
-  <!-- ============================== SECCIÓN "DOMINIOS Y EXPERIENCIA" ============================== -->
+  <!-- ============================== SECCIÓN "DOMINIOS Y EXPERIENCIA" (EXPANDIDA) ============================== -->
   <details open>
-    <summary><h2 align="center">☣ Dominios y Experiencia ☣</h2></summary>
+    <summary>
+        <h2 align="center">
+            <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;"><path d="M10 2 L18 10 L10 18 L2 10 Z" stroke="#D70000" stroke-width="1.5" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/></path></svg>
+            ☣ Panteón de Tecnologías ☣
+        </h2>
+    </summary>
     <br>
     <table width="100%" cellpadding="10" cellspacing="0">
       <tr>
         <td width="50%" valign="top" align="center">
-          <h3>Backend xp:</h3>
+          <h3>Backend & APIs:</h3>
           <p align="center">
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="60" height="60"/></a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="60" height="60"/>
           </p>
         </td>
         <td width="50%" valign="top" align="center">
-          <h3>Datos xp:</h3>
+          <h3>Frontend & Visualización:</h3>
           <p align="center">
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" alt="Redis" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original-wordmark.svg" alt="InfluxDB" width="60" height="60"/></a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="60" height="60"/>
           </p>
         </td>
       </tr>
       <tr>
         <td width="50%" valign="top" align="center">
-          <h3>Nube xp:</h3>
+          <h3>Datos, Streams & IA:</h3>
           <p align="center">
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/></a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" alt="Redis" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original-wordmark.svg" alt="InfluxDB" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="60" height="60"/>
           </p>
         </td>
-         <td width="50%" valign="top" align="center">
-          <h3>Frontend xp:</h3>
+        <td width="50%" valign="top" align="center">
+          <h3>DevOps, Cloud & Orquestación:</h3>
           <p align="center">
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="60" height="60"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="60" height="60"/></a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="60" height="60"/>
           </p>
         </td>
       </tr>
@@ -225,13 +243,18 @@
   </details>
   <br>
 
-  <!-- ============================== SECCIÓN "CREACIONES NOTABLES" ============================== -->
+  <!-- ============================== SECCIÓN "CREACIONES NOTABLES" (ESTRUCTURA MEJORADA) ============================== -->
   <details open>
-    <summary><h2 align="center">⚢ Creaciones Notables ⚢</h2></summary>
+    <summary>
+        <h2 align="center">
+            <svg width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;" fill="#D70000"><path d="M12 2l-2.4 7.4h-7.6l6 4.6-2.4 7.4 6-4.6 6 4.6-2.4-7.4 6-4.6h-7.6z"><animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></path></svg>
+            ⚢ Creaciones Notables ⚢
+        </h2>
+    </summary>
     <br>
-    <table width="100%" cellpadding="15" cellspacing="0">
+    <table width="100%" cellpadding="0" cellspacing="0">
       <tr>
-        <td width="50%" valign="top">
+        <td width="49%" valign="top">
           <h3 align="center">[Nombre del Proyecto 1]</h3>
           <a href="[ENLACE_AL_REPO_1]" target="_blank"><img src="https://via.placeholder.com/400x250/0A0A0A/D70000.png?text=IMAGEN+PROYECTO+1" width="100%" alt="Proyecto 1"/></a>
           <br><br>
@@ -244,7 +267,10 @@
             <a href="[ENLACE_AL_DEMO_1]" target="_blank"><img src="https://img.shields.io/badge/Ver_Manifestación-1F1F1F?style=for-the-badge&logo=google-chrome&logoColor=D70000"></a>
           </p>
         </td>
-        <td width="50%" valign="top">
+        <td width="2%" align="center">
+           <svg width="2" height="100%" xmlns="http://www.w3.org/2000/svg"><line x1="1" y1="0" x2="1" y2="100%" stroke="#D70000" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="0" to="8" dur="0.5s" repeatCount="indefinite"/></line></svg>
+        </td>
+        <td width="49%" valign="top">
           <h3 align="center">[Nombre del Proyecto 2]</h3>
           <a href="[ENLACE_AL_REPO_2]" target="_blank"><img src="https://via.placeholder.com/400x250/0A0A0A/D70000.png?text=IMAGEN+PROYECTO+2" width="100%" alt="Proyecto 2"/></a>
           <br><br>
@@ -264,7 +290,12 @@
   
   <!-- ============================== SECCIÓN "ACTIVIDAD GITHUB" ============================== -->
   <details open>
-    <summary><h2 align="center">𒆙 Echo Actividad 𒆙</h2></summary>
+    <summary>
+        <h2 align="center">
+            <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;"><path d="M10,1 L10,19 M1,10 L19,10" stroke="#D70000" stroke-width="2" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="5s" repeatCount="indefinite"/></path></svg>
+            𒆙 Echo Actividad 𒆙
+        </h2>
+    </summary>
     <br>
     <table width="100%" align="center" cellpadding="10" cellspacing="0">
       <tr>
@@ -304,12 +335,15 @@
     <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&duration=5000&pause=200&color=FF0000¢er=true&vCenter=true&multiline=true&lines=⛧+C0d3d+by+ByxcyxVc+⛧;Black+OSINT+%7C+RedTeam+%7C+IA;SnkLv+%7C+Muxed+Hyv22o+%7C+Syxbun" />
   </p>
 
+  <!-- NUEVA ANIMACIÓN FINAL: "CRISTAL DE ALMA" -->
   <p align="center">
-    <svg width="100" height="100" viewBox="0 0 100 100">
-      <polyline points="50,5 60,30 45,30 55,55"
-        stroke="#D70000" stroke-width="3" fill="none">
-        <animate attributeName="stroke-width" values="1;3;1" dur="0.6s" repeatCount="indefinite"/>
-      </polyline>
+    <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M50 5 L80 35 L50 95 L20 35 Z" stroke="#D70000" stroke-width="2" fill="none">
+         <animate attributeName="stroke" values="#D70000;#FF5555;#D70000" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M50 5 L50 95 M20 35 L80 35" stroke="#D70000" stroke-width="1" fill="none">
+         <animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/>
+      </path>
     </svg>
   </p>
 
