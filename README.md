@@ -167,14 +167,14 @@
       <tr><td height="20"></td></tr>
       <tr><td style="background-color: rgba(0,0,0,0.5); border: 1px solid #400000; border-radius: 10px; padding: 20px;">
         <h3 style="font-family: 'Cinzel', serif; color: #FF4136; margin-top: 0;">[Proyecto CronoOp]</h3>
-        <p style="font-family: 'Roboto Mono', monospace; color: #BDBDBD; font-size: 14px; line-height: 1.5;">jsjsjsjsjsjsjj</p>
-        <p style="font-family: 'VT323', monospace; color: #AAAAAA;">rolls: Python, Ansible, Terraform</p>
+        <p style="font-family: 'Roboto Mono', monospace; color: #BDBDBD; font-size: 14px; line-height: 1.5;">holder</p>
+        <p style="font-family: 'VT323', monospace; color: #AAAAAA;">rolls: Python, bash</p>
       </td></tr>
       <tr><td height="20"></td></tr>
       <tr><td style="background-color: rgba(0,0,0,0.5); border: 1px solid #400000; border-radius: 10px; padding: 20px;">
         <h3 style="font-family: 'Cinzel', serif; color: #FF4136; margin-top: 0;">[Proyecto Ubrula]</h3>
-        <p style="font-family: 'Roboto Mono', monospace; color: #BDBDBD; font-size: 14px; line-height: 1.5;">sjjsjjsjjssjjsjs</p>
-        <p style="font-family: 'VT323', monospace; color: #AAAAAA;">rolls: Go, TensorFlow, Prometheus</p>
+        <p style="font-family: 'Roboto Mono', monospace; color: #BDBDBD; font-size: 14px; line-height: 1.5;">holder</p>
+        <p style="font-family: 'VT323', monospace; color: #AAAAAA;">rolls: Go, TensorFlow</p>
       </td></tr>
     </table>
   </details>
