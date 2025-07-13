@@ -95,10 +95,10 @@
 
 <p align="center">
   <a href="https://github.com/slyxicpy" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D70000" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D70000" alt="LinkedIn"></a>
-  <a href="https://TU_PORTAFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=D70000" alt="Portfolio"></a>
-  <a href="mailto:correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D70000" alt="Email"></a>
-  <a href="https://twitter.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=D70000" alt="Twitter"></a>
+  <a href="http://proximamente)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D70000" alt="LinkedIn"></a>
+  <a href="http://proximamente" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=D70000" alt="Portfolio"></a>
+  <a href="no definido aun"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D70000" alt="Email"></a>
+  <a href="http://proximamente" target="_blank"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=D70000" alt="Twitter"></a>
 </p>
 
 <p align="center">
