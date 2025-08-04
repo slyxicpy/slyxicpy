@@ -24,8 +24,8 @@
 </p>
 
 <p align="center" style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 20px;">
-  <i>[ Os distribuidor | Auttx x http/2 | skid ]</i><br>
-  <strong>"Proyect's Leaks v9"</strong>
+  <i>[ Os distribuidor | Auttx x http/2 | skid boss ]</i><br>
+  <strong>"Proyect XnoxAI"</strong>
 </p>
 
 <p align="center">
@@ -55,15 +55,17 @@
       <animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/>
     </path>
   </svg>
-  Contact Me
+  Contact Me Bitch!
 </h2>
 
 <p align="center">
   <a href="https://github.com/slyxicpy" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D70000" alt="GitHub"></a>
-  <a href="http://proximamente)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D70000" alt="LinkedIn"></a>
+  <a href="http://proximamente" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D70000" alt="LinkedIn"></a>
   <a href="http://proximamente" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=D70000" alt="Portfolio"></a>
-  <a href="no definido aun"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D70000" alt="Email"></a>
+  <a href=""><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D70000" alt="Email"></a>
   <a href="http://proximamente" target="_blank"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=D70000" alt="Twitter"></a>
+  <a href="https://discord.gg/vdRt5kxj" target="_blank"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=D70000" alt="Discord"></a>
+  <a href="https://t.me/slyxbys" target="_blank"><img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=D70000" alt="Telegram"></a>
 </p>
 
 <p align="center">
