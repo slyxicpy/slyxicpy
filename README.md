@@ -46,42 +46,7 @@
 </p>
 
 <pre style="color: #D70000; font-family: 'Source Code Pro', monospace; font-size: 10px; line-height: 1; margin: 20px 0;">
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+xxXXXXXXXXXXxx+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+xXXXXXXXXXXXXXXXXXXXXx+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+XXXXXX$XX$$X$XXXXXXXXXXXXXx;;;;;;;;;;;𝕮𝖗𝖞𝕭𝖆𝖇𝖞;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;xXX$$$$$$$$$$XXXXXXXXXXXXXXXXXX+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;xXX$$$$$$$$$$$$XXXXXX$$X$X$XXXXXX+;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;+XX$$$$$$$$$$XXX$$$$XXXXX$XXXXXXXXx;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;XX$$$$$$$$$$$$XXXXXXXXXXXXXXXXXXXX+;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;+XXX$$$$$$$$$XXXXXXX$$$$$X$$$XXXXXXX+;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;XXX$$$$$$$$$$$$$$$$$XXXX$$$$$XXXXXX+;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;+XXX$$$$$$$$$$$XXXXXXXXXXX$$XXXX$XXX+;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;xX$$$$$$$$$$$$$$$$$$$$$$$$$X$$XXXXXXx;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;xXX$$$$XXXX$$$$$$$$$$X$XXXXXXXXXXXXXx;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;xX$$$$$XXXXXXXXX$$$$$Xxxxxx++xxXXXXXx;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;xXXXX$$$$XXXXX$$$$X$X$XXXXXXXXXXXXXXx;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;+XX$$$$$$$$$$$$$$$X$$$$$XX$XXXXXXXXXx;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;xXX$$$$$$$$$$$$$$$$$$$$X$$$XXXXXXXX;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;+XX$$$$$$$$$$$$$$$$$$$$$$XXXXXXXx;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;xXX$$$$$$$$$$$$$$$$X$$XXX$$XXXX+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;XXX$$$$$$$XXXXXXXXXX$XXXXXXXX+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+XX$$$$$$XXxxxxxxxxXXXXXXXXXx;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;xX$$$$$$$$$$$$$$$$$$$XXXXXX;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+xX$$$$$$$$$$$XXXXXX$X$XXXX+x+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;;;;;;+XXxxX$$$$X$$$$$$$XXXXXXXXXx::+XX+;;;;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;;;;;;;++xXXX$$XxxxxX$$$$$$$$$$$$XXXX+:::;xXXXXx+;;;;;;;;;;;;;;;;;;;;;;;;
-          ;;;;;;;;;;;;;;;;++xXXXX$$$$$$$xxxxxxxX$$$$$$XXXXx;:::::+XXXXXXXXXXx+;;;;;;;;;;;;;;;;;;;;
-          ;;;;++++xXXXXXXX$X$X$$$$$$$$$$$$Xxx+++++XXXXXXX+::::::;xXXXXXXXXXXXXXXXXXx+;;;;;;;;;;;;;
-          ++xXXXXXXXXXX$$X$$X$$$$$X$$$$$$$Xxx+++XX$$$XXXXXXx;::;+XXXXXXXXXXXXXXXXXXXXXXXXXXXXx;;;;
-          +xXXXXX$XXXXXX$$$X$$$$$$XX$X$X$XX++++xxxXX$XXXx+++xx+;XXXXXXXXXXXXXXXX$XXXXXXXXXXXXXx+;;
-          +XXXXXXXXX$XX$X$$$$$XX$$$XXXX$XXXx;;;;++xXXXXx;;;;::;xXXXXXXXXXXXXXXX$XXXXXXXXXXXXXXXX+;
-          XXXXX$XXX$XXX$$X$X$$$$$X$$$$$$XXXX++;;;+xXXXXX;;;;;;;XXXXXXXXXXXXXXXXXXXXX$XXXXXXXXXXXx+
-          X$$X$$$$$X$XXX$$$$X$$$$$XX$$$$XXXX+;;;;xXXXXXXx;;;;;xXXXXXXXXXXXXXXXXX$XXXXXXXXXXXXXXXX+
-          X$$X$$$$XX$X$$$$$$$X$X$XXXX$$XXXXXX;;;+XXXXXXXXx;;;+XXXXXXXXXXXXXXXXXXXXXX$XXXXX$XXXXXX;
-          X$$$$$X$$$$X$$$X$$X$XX$XX$$X$$XXXXX+;;xXXXXXXXXx;++XXXXXXXXXXXXXXXXXXXXXXX$XXXX$$XXXXXX;
-          $$$$$$$$$$X$XX$$X$$X$XX$$$$$X$XXXXXx;+XXXXXXXXXX++XXXXXXXX$XXXXXXXXXX$XXXXXX$XXX$XXXXXX;
-          XX$$$$$$$$$X$$X$XX$$X$$$$$$$$X$X$XXX++XXXXXXXXXX++XXXXXXXX$XXXXXXXXXX$XXXXXX$XXX$XXXXXX;
-          $$$$$$$$$$$$X$$$X$$X$$XXXX$X$$$$$$$XXX+XXXXXXXXXXxxXXXXXXXXXXXXXXXX$$XXXXXXXXXX$$XXXXX$X
+𝕮𝖗𝖞𝕭𝖆𝖇𝖞
   </pre>
 
 <h2 align="center" style="font-family: 'Cinzel', serif; color: #F0F0F0; filter: url(#neon-glow);">
@@ -120,34 +85,23 @@
   <br/><br/>
 
 <details>
-  <summary><strong><h2>Conocimiento</h2></strong></summary>
+  <summary><strong><h2>Conocimiento Byx</h2></strong></summary>
   
 
-### Frameworks && Runtimes
+ByxCn
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
-
----
-
-### Datos && IA
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-
----
-
-### DevOps && Cloud
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </details>
 
 
