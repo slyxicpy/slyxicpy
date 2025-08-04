@@ -24,7 +24,7 @@
 </p>
 
 <p align="center" style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 20px;">
-  <i>[ Os distribuidor | AI x Cloud | skid ]</i><br>
+  <i>[ Os distribuidor | Auttx x http/2 | skid ]</i><br>
   <strong>"Proyect's Leaks v9"</strong>
 </p>
 
@@ -70,35 +70,37 @@
   <img src="https://komarev.com/ghpvc/?username=slyxicpy&label=Visitantes&color=D70000&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
-  <details open>
-    <summary style="cursor: pointer; list-style: none;">
-      <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-block; filter: url(#neon-glow);">
-        <svg width="20" height="20" viewBox="0 0 20 20" style="vertical-align: middle; margin-right: 10px;"><path d="M10 2 L18 10 L10 18 L2 10 Z" fill="#FF4136"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/></path></svg>
-        IntroxByx
-      </h2>
-    </summary>
-    <br/>
-    <p style="font-family: 'Roboto Mono', monospace; font-size: 16px; color: #BDBDBD; text-align: left; line-height: 1.6;">
-    ZenoBot
-    </p>
-  </details>
-  <br/><br/>
+<details open>
+  <summary style="cursor: pointer; list-style: none;">
+    <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-block; filter: url(#neon-glow);">
+      <svg width="20" height="20" viewBox="0 0 20 20" style="vertical-align: middle; margin-right: 10px;">
+        <path d="M10 2 L18 10 L10 18 L2 10 Z" fill="#FF4136">
+          <animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/>
+        </path>
+      </svg>
+      Conocimiento
+    </h2>
+  </summary>
+  <br/>
+  <p style="font-family: 'Roboto Mono', monospace; font-size: 16px; color: #BDBDBD; text-align: left; line-height: 1.6;">
+  </p>
 
-<details>
-  <summary><strong><h2>Conocimiento Byx</h2></strong></summary>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <div style="margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux / Assembly / COBOL (genérico)"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" title="Arduino / Electrónica / ESP32"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  </div>
 </details>
 
 
