@@ -103,38 +103,6 @@
   </div>
 </details>
 
-
-  <details open>
-    <summary style="cursor: pointer; list-style: none;">
-      <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-block; filter: url(#neon-glow);">
-        <svg width="20" height="20" viewBox="0 0 20 20" style="vertical-align: middle; margin-right: 10px;"><path d="M10 2 L18 10 L10 18 L2 10 Z" fill="#FF4136"><animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/></path></svg>
-        Pre-Creaciones
-      </h2>
-    </summary>
-    <br/>
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr><td style="background-color: rgba(0,0,0,0.5); border: 1px solid #400000; border-radius: 10px; padding: 20px;">
-        <h3 style="font-family: 'Cinzel', serif; color: #FF4136; margin-top: 0;">[Proyecto Rotoer]</h3>
-        <p style="font-family: 'Roboto Mono', monospace; color: #BDBDBD; font-size: 14px; line-height: 1.5;">Agente autonomo de ingesta y correlacion de datos completa con hashed broken</p>
-        <p style="font-family: 'VT323', monospace; color: #AAAAAA;">rolls: Rust, go, python, node.js</p>
-      </td></tr>
-      <tr><td height="20"></td></tr>
-      <tr><td style="background-color: rgba(0,0,0,0.5); border: 1px solid #400000; border-radius: 10px; padding: 20px;">
-        <h3 style="font-family: 'Cinzel', serif; color: #FF4136; margin-top: 0;">[Proyecto CronoOp]</h3>
-        <p style="font-family: 'Roboto Mono', monospace; color: #BDBDBD; font-size: 14px; line-height: 1.5;">holder</p>
-        <p style="font-family: 'VT323', monospace; color: #AAAAAA;">rolls: Python, bash</p>
-      </td></tr>
-      <tr><td height="20"></td></tr>
-      <tr><td style="background-color: rgba(0,0,0,0.5); border: 1px solid #400000; border-radius: 10px; padding: 20px;">
-        <h3 style="font-family: 'Cinzel', serif; color: #FF4136; margin-top: 0;">[Proyecto Ubrula]</h3>
-        <p style="font-family: 'Roboto Mono', monospace; color: #BDBDBD; font-size: 14px; line-height: 1.5;">holder</p>
-        <p style="font-family: 'VT323', monospace; color: #AAAAAA;">rolls: Go, TensorFlow</p>
-      </td></tr>
-    </table>
-  </details>
-  <br/><br/>
-
-
   <details open>
     <summary style="cursor: pointer; list-style: none;">
       <h2 style="font-family: 'Cinzel', serif; color: #F0F0F0; display: inline-block; filter: url(#neon-glow);">
