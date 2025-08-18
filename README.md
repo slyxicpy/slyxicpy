@@ -24,8 +24,8 @@
 </p>
 
 <p align="center" style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 20px;">
-  <i>[ Os distribuidor | Auttx x http/2 | skid boss ]</i><br>
-  <strong>"Proyect XnoxAI"</strong>
+  <i>[ Styx | Auttx x http/2 | skid boss ]</i><br>
+  <strong>"Actua Proyect XnoxAI"</strong>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
       <animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="8s" repeatCount="indefinite"/>
     </path>
   </svg>
-  Contact Me Bitch!
+  Me!
 </h2>
 
 <p align="center">
