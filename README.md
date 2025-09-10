@@ -18,8 +18,6 @@
  font-weight="900" font-size="52" fill="none" stroke="#FF4136"
           stroke-width="1.5" stroke-dasharray="500" stroke-dashoffset="500" filter="url(#neon-glow)">
        𝕭𝖞𝖝𝖈𝖕𝖁𝖈
-      TG = @slyxbys
-      DC = https://discord.gg/wUuCkPfN
       <animate attributeName="stroke-dashoffset" from="500" to="0" dur="3s" fill="freeze" />
     </text>
   </svg>
@@ -49,6 +47,8 @@
 
 <pre style="color: #D70000; font-family: 'Source Code Pro', monospace; font-size: 10px; line-height: 1; margin: 20px 0;">
 𝕮𝖗𝖞𝕭𝖆𝖇𝖞
+      TG = @slyxbys
+      DC = https://discord.gg/wUuCkPfN
   </pre>
 
 <h2 align="center" style="font-family: 'Cinzel', serif; color: #F0F0F0; filter: url(#neon-glow);">
