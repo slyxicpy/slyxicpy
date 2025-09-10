@@ -18,6 +18,8 @@
  font-weight="900" font-size="52" fill="none" stroke="#FF4136"
           stroke-width="1.5" stroke-dasharray="500" stroke-dashoffset="500" filter="url(#neon-glow)">
        𝕭𝖞𝖝𝖈𝖕𝖁𝖈
+      TG = @slyxbys
+      DC = https://discord.gg/wUuCkPfN
       <animate attributeName="stroke-dashoffset" from="500" to="0" dur="3s" fill="freeze" />
     </text>
   </svg>
