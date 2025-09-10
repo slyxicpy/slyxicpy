@@ -27,7 +27,7 @@
 
 <p align="center" style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 20px;">
   <i>[ Styx | Auttx x http/2 | skid boss ]</i><br>
-  <strong>"Actua Proyect XnoxAI"</strong>
+  <strong>"Actual proyect SwitcherV"</strong>
 </p>
 
 <p align="center">
