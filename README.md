@@ -34,14 +34,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=24&pause=1000&color=C4C4C4&center=true&vCenter=true&width=600&lines=Pineal+gland+DMT+synthesis...;Tryptophan+hydroxylase+path...;5-HTP+decarboxylase+enzyme...;Serotonin+5-HT2A+receptor...;NMDA+receptor+antagonist...;Sigma-1+receptor+agonist...;D2+dopamine+modulation...;TAAR1+trace+amine+bind...;MAO-A+inhibitor+block...;COMT+enzyme+degradation...;GABA-A+receptor+modulation...;Benzodiazepine+allosteric...;Glutamate+excitotoxicity...;Acetylcholine+nicotinic...;CB1+cannabinoid+receptor...;Opioid+mu+delta+kappa...;5-HT1A+serotonin+autoreceptor...;5-HT7+circadian+rhythm...;Alpha-2+adrenergic+receptor...;Beta-endorphin+release...;Anandamide+endocannabinoid...;Orexin+hypocretin+wakefulness...;Histamine+H1+alertness...;Melatonin+MT1+MT2+sleep...;Oxytocin+social+bonding...;Vasopressin+V1A+aggression...;Prolactin+lactation+stress...;BDNF+neuroplasticity...;NGF+nerve+growth+factor..."/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=24&pause=1000&color=ACACAC&center=true&vCenter=true&width=600&lines=Methylamine+gas+synthesis...;Pseudoephedrine+reduction...;Red+phosphorus+iodine+method...;Lithium+ammonia+Birch...;Phenyl-2-propanone+precursor...;Reductive+amination+pathway...;Leuckart+reaction+formamide...;P2P+Al/Hg+amalgam...;Ephedrine+chloroephedrine...;Thionyl+chloride+halogen...;Sodium+borohydride+reduce...;Palladium+carbon+catalyst...;Methylamphetamine+HCl+salt...;d-methamphetamine+isomer...;Crystal+methamphetamine...;Ice+shard+recrystallize...;Chiral+column+separation...;Nagai+method+synthesis...;Emde+degradation+pathway...;Hydriodic+acid+reduction...;Hypophosphorous+acid+method...;Phenylacetone+condensation...;Benzaldehyde+nitroethane...;Henry+reaction+mechanism...;Wacker+oxidation+process...;Grignard+reagent+addition...;Mannich+reaction+base...;N-methylation+formic+acid...;Eschweiler-Clarke+methylation...;Zinc+amalgam+reduction..."/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=24&pause=1000&color=BEBEBE&center=true&vCenter=true&width=600&lines=Sassafras+oil+safrole...;MDMA+3,4-methylenedioxy...;MDA+methylenedioxyamphetamine...;Piperonal+aldehyde+precursor...;Isosafrole+isomerization...;PMK+glycidate+synthesis...;BMK+benzyl+methyl+ketone...;2C-B+phenethylamine...;2C-E+escaline+analog...;2C-I+iodo+substitution...;DOC+amplification+layer...;25I-NBOMe+receptor+lock...;Mescaline+peyote+extract...;MMDA+3-methoxy-4,5-MDA...;TMA-2+trimethoxyamphetamine...;DOM+STP+psychedelic...;DOI+iodo+amphetamine...;DOB+bromo+derivative...;Aleph-1+sulfur+analog...;2C-T-7+propylthio+chain...;2C-T-2+ethylthio+substitution...;5-APB+benzofuran+empathogen...;6-APB+positional+isomer...;MDAI+aminoindane+serotonin...;Methylone+bk-MDMA+cathinone...;Mephedrone+4-MMC+drone...;Alpha-PVP+flakka+pyrrolidine...;MDPV+bath+salts+stimulant...;Pentedrone+cathinone+analog..."/>
-</p>
-
 
 
 <p>
@@ -112,10 +104,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="40" title="Go"/>
   </div>
 </details>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=24&pause=1000&color=B8B8B8&center=true&vCenter=true&width=600&lines=Saturn+hexagram+ritual...;Sigil+of+Lucifer+encoded...;Seal+of+Babalon+decrypt...;Enochian+key+sequence...;Goetia+72+demons+index...;Qliphoth+tree+traversal...;Abyss+crossing+protocol...;Thelema+93+cipher+key...;Chaos+magick+sigil+cast...;Thoughtform+egregore+bind...;Astral+projection+gate...;Akashic+records+access...;Merkaba+field+activation...;Kundalini+serpent+rise...;Third+eye+pineal+decrypt...;Hermetic+Qabalah+tree...;Sephiroth+emanation+path...;Daath+hidden+knowledge...;Kether+crown+divine...;Chokmah+wisdom+masculine...;Binah+understanding+feminine...;Chesed+mercy+expansion...;Geburah+severity+justice...;Tiphareth+beauty+balance...;Netzach+victory+emotion...;Hod+splendor+intellect...;Yesod+foundation+astral...;Malkuth+kingdom+material...;Tree+of+Life+pathworking...;Lesser+Banishing+Ritual..."/>
-</p>
 
   <details open>
     <summary style="cursor: pointer; list-style: none;">
